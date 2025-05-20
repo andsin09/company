@@ -2,7 +2,8 @@
 Name: Andrew Sinha
 Date: 5/20/2025
 Title: Company Consistency Lab
-Extra: */
+Extra: Free Coupon + Coupons are Optional
+*/
 
 //part 1
 #include <iostream>
